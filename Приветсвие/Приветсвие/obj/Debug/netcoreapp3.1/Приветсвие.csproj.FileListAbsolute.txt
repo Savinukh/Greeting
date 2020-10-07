@@ -1,0 +1,13 @@
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\obj\Debug\netcoreapp3.1\Приветсвие.csprojAssemblyReference.cache
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\obj\Debug\netcoreapp3.1\Приветсвие.AssemblyInfoInputs.cache
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\obj\Debug\netcoreapp3.1\Приветсвие.AssemblyInfo.cs
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\obj\Debug\netcoreapp3.1\Приветсвие.csproj.CoreCompileInputs.cache
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\bin\Debug\netcoreapp3.1\Приветсвие.exe
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\bin\Debug\netcoreapp3.1\Приветсвие.deps.json
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\bin\Debug\netcoreapp3.1\Приветсвие.runtimeconfig.json
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\bin\Debug\netcoreapp3.1\Приветсвие.runtimeconfig.dev.json
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\bin\Debug\netcoreapp3.1\Приветсвие.dll
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\bin\Debug\netcoreapp3.1\Приветсвие.pdb
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\obj\Debug\netcoreapp3.1\Приветсвие.dll
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\obj\Debug\netcoreapp3.1\Приветсвие.pdb
+C:\Users\Ёжик\source\repos\Приветсвие\Приветсвие\obj\Debug\netcoreapp3.1\Приветсвие.genruntimeconfig.cache
