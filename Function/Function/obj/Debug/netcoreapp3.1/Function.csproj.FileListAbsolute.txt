@@ -1,0 +1,13 @@
+C:\Users\Ёжик\source\repos\Function\Function\bin\Debug\netcoreapp3.1\Function.exe
+C:\Users\Ёжик\source\repos\Function\Function\bin\Debug\netcoreapp3.1\Function.deps.json
+C:\Users\Ёжик\source\repos\Function\Function\bin\Debug\netcoreapp3.1\Function.runtimeconfig.json
+C:\Users\Ёжик\source\repos\Function\Function\bin\Debug\netcoreapp3.1\Function.runtimeconfig.dev.json
+C:\Users\Ёжик\source\repos\Function\Function\bin\Debug\netcoreapp3.1\Function.dll
+C:\Users\Ёжик\source\repos\Function\Function\bin\Debug\netcoreapp3.1\Function.pdb
+C:\Users\Ёжик\source\repos\Function\Function\obj\Debug\netcoreapp3.1\Function.csprojAssemblyReference.cache
+C:\Users\Ёжик\source\repos\Function\Function\obj\Debug\netcoreapp3.1\Function.AssemblyInfoInputs.cache
+C:\Users\Ёжик\source\repos\Function\Function\obj\Debug\netcoreapp3.1\Function.AssemblyInfo.cs
+C:\Users\Ёжик\source\repos\Function\Function\obj\Debug\netcoreapp3.1\Function.csproj.CoreCompileInputs.cache
+C:\Users\Ёжик\source\repos\Function\Function\obj\Debug\netcoreapp3.1\Function.dll
+C:\Users\Ёжик\source\repos\Function\Function\obj\Debug\netcoreapp3.1\Function.pdb
+C:\Users\Ёжик\source\repos\Function\Function\obj\Debug\netcoreapp3.1\Function.genruntimeconfig.cache
